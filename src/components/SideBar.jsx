@@ -8,6 +8,9 @@ export default function SideBar(){
                 <p>Description</p>
                 <p>Mars very red and big and its covered with those martian soil(?)</p>
             </div>
+            <button>
+            <i className="fa-solid fa-arrow-right"></i>
+            </button>
         </div>
         </div>
     )
