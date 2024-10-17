@@ -7,12 +7,12 @@ import SideBar from "./components/SideBar"
 
 function App() {
   
-  const [showModal, setShowModal] = useState(false)
+  const [showModal, setShowModal] = useState(true)
   return (
     <>
       <Main />
     {showModal && 
-    (<SideBar>asfasf</SideBar>
+    (<SideBar/>
 
     )}
    <Footer />
