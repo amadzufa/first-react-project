@@ -1,8 +1,39 @@
-# React + Vite
+# First React Project 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my first React project! I followed a YouTube tutorial to build it. The project fetches live images using NASA's public API. 🌌
 
-Currently, two official plugins are available:
+## Features
+- Fetches and displays live images from NASA's API.
+- Simple and beginner-friendly React app.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React
+- NASA Public API
+- Axios (if used for API calls)
+- CSS (for styling)
+
+## How to Run
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/amadzufa/first-react-project.git
+   ```
+2. Navigate to the project folder:
+   ```sh
+   cd first-react-project
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Run the project:
+   ```sh
+   npm start
+   ```
+
+## Notes
+- You might need an API key for NASA's API. Check [NASA API Documentation](https://api.nasa.gov/) for details.
+- This project was built for learning purposes.
+
+## Connect
+GitHub: [amadzufa](https://github.com/amadzufa)
+
