@@ -9,7 +9,7 @@ This is my first React project! I followed a YouTube tutorial to build it. The p
 ## Technologies Used
 - React
 - NASA Public API
-- Axios (if used for API calls)
+- Vite
 - CSS (for styling)
 
 ## How to Run
